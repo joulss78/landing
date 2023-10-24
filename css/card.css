@@ -1,0 +1,42 @@
+.card-apply {
+  width: 200px;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+  align-items: center;
+}
+
+.card-apply img {
+  width: 150px;
+  height: 150px;
+}
+
+.card-learn {
+  width: 200px;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+  align-items: center;
+}
+
+.card-learn img {
+  width: 150px;
+  height: 150px;
+}
+
+.card-build {
+  width: 200px;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+  align-items: center;
+}
+
+.card-build img {
+  width: 150px;
+  height: 150px;
+}
+
+.cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}

@@ -1,0 +1,31 @@
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.container h2 {
+  text-align: center;
+  color: black;
+  display: block;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.container h3 {
+  text-align: left;
+  color: black;
+  display: block;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.container p {
+  text-align: left;
+  color: rgb(185, 185, 185);
+  display: block;
+  font-size: 16px;
+  text-align: center;
+}

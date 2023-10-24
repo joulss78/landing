@@ -1,0 +1,20 @@
+.banner-container {
+  width: 900px;
+  margin: auto;
+}
+.banner-container h1 {
+  text-align: left;
+  color: white;
+  display: block;
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.banner-container p {
+  text-align: left;
+  color: rgb(185, 185, 185);
+  display: block;
+  font-size: 20px;
+  margin-bottom: 40px;
+}
